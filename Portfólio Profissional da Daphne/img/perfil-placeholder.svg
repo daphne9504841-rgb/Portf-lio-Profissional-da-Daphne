@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 680" role="img" aria-labelledby="title desc">
+  <title id="title">Espaço para foto de Daphne Pereira</title><desc id="desc">Placeholder elegante em tons de roxo para substituir pela fotografia pessoal.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9e2ff"/><stop offset="1" stop-color="#b8a1ff"/></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6742e3"/><stop offset="1" stop-color="#24163d"/></linearGradient></defs>
+  <rect width="560" height="680" fill="url(#bg)"/><circle cx="436" cy="130" r="120" fill="#fff" opacity=".2"/><circle cx="76" cy="540" r="170" fill="#6742e3" opacity=".1"/>
+  <circle cx="280" cy="260" r="112" fill="#f5d8ca"/><path d="M168 267c-5-102 44-164 118-164 87 0 134 69 104 186-9-89-61-82-101-111-23 36-65 66-121 89Z" fill="#24163d"/>
+  <path d="M105 680c8-176 75-260 175-260s167 84 175 260H105Z" fill="url(#shirt)"/><path d="m235 423 45 71 47-71" fill="#fff" opacity=".85"/>
+  <g fill="#fff" opacity=".65"><circle cx="38" cy="38" r="4"/><circle cx="54" cy="38" r="4"/><circle cx="70" cy="38" r="4"/></g>
+  <text x="280" y="625" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">SUBSTITUA PELA SUA FOTO</text>
+</svg>
